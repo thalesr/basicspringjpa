@@ -24,7 +24,6 @@ public class UserServiceTest {
 		
 		User user = new User("FAKE NAME");
 		userService.save(user);
-		System.out.println(user.getId());
 		assertNotNull(user.getId());
 		
 	}
