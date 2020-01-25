@@ -1,5 +1,4 @@
 # basicspringjpa
-Basic backend spring project with JPA+Hibernate+LocalEntityManagerFactory
 
 This project provides the baseline to start a spring-based project with JPA+Hibernate. 
 It uses the spring's JpaRepository as base crud and is fully annotation driven.
